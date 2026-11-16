@@ -1,0 +1,5 @@
+web/node_modules
+backend/web/dist/*
+!backend/web/dist/.gitkeep
+*.log
+.DS_Store
